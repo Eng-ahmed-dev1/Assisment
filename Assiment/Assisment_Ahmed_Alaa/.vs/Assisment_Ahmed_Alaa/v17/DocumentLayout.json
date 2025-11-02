@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|c:\\users\\sd\\desktop\\assiment\\assisment_ahmed_alaa\\views\\doctordashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|solutionrelative:views\\doctordashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|c:\\users\\sd\\desktop\\assiment\\assisment_ahmed_alaa\\views\\receptionistdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|solutionrelative:views\\receptionistdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|c:\\users\\sd\\desktop\\assiment\\assisment_ahmed_alaa\\views\\doctordashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|solutionrelative:views\\doctordashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|c:\\users\\sd\\desktop\\assiment\\assisment_ahmed_alaa\\views\\receptionistdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|solutionrelative:views\\receptionistdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|c:\\users\\sd\\desktop\\assiment\\assisment_ahmed_alaa\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|c:\\users\\sd\\desktop\\assiment\\assisment_ahmed_alaa\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|c:\\users\\sd\\desktop\\assiment\\assisment_ahmed_alaa\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|c:\\users\\sd\\desktop\\assiment\\assisment_ahmed_alaa\\models\\appoimenthandlingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|solutionrelative:models\\appoimenthandlingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|c:\\users\\sd\\desktop\\assiment\\assisment_ahmed_alaa\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|solutionrelative:helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|c:\\users\\sd\\desktop\\assiment\\assisment_ahmed_alaa\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3866FB29-46D2-4254-AD83-F7A473AB17CC}|Assisment_Ahmed_Alaa.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 229,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Views\\DoctorDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\DoctorDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Views\\DoctorDashboard.xaml.cs",
+              "RelativeToolTip": "Views\\DoctorDashboard.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:08:59.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Views\\DoctorDashboard.xaml",
+              "RelativeDocumentMoniker": "Views\\DoctorDashboard.xaml",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Views\\DoctorDashboard.xaml",
+              "RelativeToolTip": "Views\\DoctorDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T09:13:28.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppoimentHandlingDB.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Models\\AppoimentHandlingDB.cs",
+              "RelativeDocumentMoniker": "Models\\AppoimentHandlingDB.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Models\\AppoimentHandlingDB.cs",
+              "RelativeToolTip": "Models\\AppoimentHandlingDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:09:18.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:09:17.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:09:16.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:09:16.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Helper\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper\\Helper.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Helper\\Helper.cs",
+              "RelativeToolTip": "Helper\\Helper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:31:46.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceptionistDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Views\\ReceptionistDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ReceptionistDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Views\\ReceptionistDashboard.xaml.cs",
+              "RelativeToolTip": "Views\\ReceptionistDashboard.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwPQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:29:24.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReceptionistDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Views\\ReceptionistDashboard.xaml",
+              "RelativeDocumentMoniker": "Views\\ReceptionistDashboard.xaml",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Views\\ReceptionistDashboard.xaml",
+              "RelativeToolTip": "Views\\ReceptionistDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T06:18:21.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Login.xaml",
+              "RelativeDocumentMoniker": "Login.xaml",
+              "ToolTip": "C:\\Users\\sd\\Desktop\\Assiment\\Assisment_Ahmed_Alaa\\Login.xaml",
+              "RelativeToolTip": "Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T09:13:49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
